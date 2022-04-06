@@ -6,6 +6,6 @@ We find:
 - b. The list with the vaccines used.
 - c. At least two other types of info which can be extracted from the dataset.
 
-**Dataset:** Two CSV files in this repository. Source: https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress
+**Dataset:** Two CSV files in this repository. Source: https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress (version 248)
 
 **Kaggle notebook:** https://www.kaggle.com/code/raulalmuzara/covid-19-ranking-of-vaccinations-and-vaccines-used
