@@ -2,10 +2,11 @@
 
 We find:
 
-- a. The ranking of countries based on the number of vaccinated people (attribute *people_fully_vaccinated*).
-- b. The list with the vaccines used.
-- c. At least two other types of info which can be extracted from the dataset.
+- (a) The ranking of countries based on the number of people fully vaccinated.
+- (b) The ranking of countries based on the number of people fully vaccinated per hundred.
+- (c) The list with the vaccines used.
+- (d) The number of vaccines of each type used in the European Union.
 
-**Dataset:** Two CSV files in this repository. Source: https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress (version 248)
+**Dataset:** Two CSV files in this repository. Source: https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress (version 249)
 
-**Kaggle notebook:** https://www.kaggle.com/code/raulalmuzara/covid-19-ranking-of-vaccinations-and-vaccines-used
+**Kaggle notebook:** https://www.kaggle.com/raulalmuzara/covid-19-vaccines-and-rankings-of-vaccinations
